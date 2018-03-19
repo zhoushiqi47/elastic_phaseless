@@ -192,6 +192,12 @@ Some simple manipulation yields:
 ||x-y|-(|x|-\hat{x}\cdot y)|\leq C_4/|x|
 \een
 where $C_i$, i=1,2,3,4 depend on $|y|$.
+\ben
+G_p(x,y)=\frac{\i}{\sqrt{8\pi}(\lambda+2\mu)}A(x)\frac{1}{(k_p|x|)^{1/2}}e^{\i k_p(|x|-\hat{x}\cdot y)-\i\frac{\pi}{4}}+\gamma_p(x,y)\\ 
+G_s(x,y)=\frac{\i}{\sqrt{8\pi}\mu}B(x)\frac{1}{(k_s|x|)^{1/2}}e^{\i k_s(|x|-\hat{x}\cdot y)-\i\frac{\pi}{4}}+\gamma_s(x,y) \\
+g_\alpha(x,y)=\frac{\i}{\sqrt{8\pi}\mu}\frac{1}{(k_\alpha|x|)^{1/2}}e^{\i k_s(|x|-\hat{x}\cdot y)-\i\frac{\pi}{4}}+\gamma(x,y)
+\een
+where $|\gamma_\alpha(x,y)|\leq C(k_\alpha|x|)^{-3/2}$ for some constant $C$ depending on $k_\alpha|y|$, $\alpha\in\{p,s\}$.
 \finproof
 
 Now we turn to the analysisi of the imaging function $I_3(z)$. We first observe that:
@@ -199,7 +205,9 @@ Now we turn to the analysisi of the imaging function $I_3(z)$. We first observe 
 D_p(x_r,x_s)=\hat{x_r}^T\overline{u^s_q}+\frac{|\hat{x_r}^Tu^s_q(x_r,x_s)|^2}{\hat{x_r}^Tu^i_q(x_r,x_s))}+\frac{(\hat{x_r}^Tu^s_q(x_r,x_s))(\hat{x_r}^T\overline{u^i_q(x_r,x_s)})}{\hat{x_r}^Tu^i_q(x_r,x_s))}  \\ 
 D_s(x_r,x_s)=\tilde{x_r}^T\overline{u^s_q}+\frac{|\tilde{x_r}^Tu^s_q(x_r,x_s)|^2}{\tilde{x_r}^Tu^i_q(x_r,x_s))}+\frac{(\tilde{x_r}^Tu^s_q(x_r,x_s))(\tilde{x_r}^T\overline{u^i_q(x_r,x_s)})}{\tilde{x_r}^Tu^i_q(x_r,x_s))}
 \een
-
+\begin{lem}
+We have $|u^s_q(x_r,x_s)|\leq C(1+\|T\|)(k_p R_r)^{-1/2}(k_p R_s)^{-1/2}$ for any $x_r\in \Ga_r,x_s\in\Ga_s$, where the constant C may depend on $kd_D$ bu is independent of $k_p,k_s,d_D, R_r,R_s$.
+\end{lem}
 \section{Numerical Experiment}
 
 \begin{figure}
