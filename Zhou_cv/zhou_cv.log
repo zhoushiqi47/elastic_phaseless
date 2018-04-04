@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.30)  2 APR 2018 20:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.30)  4 APR 2018 20:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1265,10 +1265,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 22870 strings out of 493014
- 371390 string characters out of 6133350
+ 22874 strings out of 493014
+ 371444 string characters out of 6133350
  452992 words of memory out of 5000000
- 25898 multiletter control sequences out of 15000+600000
+ 25902 multiletter control sequences out of 15000+600000
  87077 words of font info for 194 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  63i,12n,54p,10380b,1196s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1340,7 +1340,7 @@ al/texlive/2016/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive
 /2016/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2016/texm
 f-dist/fonts/type1/public/lm/lmsso10.pfb></usr/local/texlive/2016/texmf-dist/fo
 nts/type1/public/lm/lmsy10.pfb>
-Output written on zhou_cv.pdf (2 pages, 515984 bytes).
+Output written on zhou_cv.pdf (2 pages, 517244 bytes).
 PDF statistics:
  397 PDF objects out of 1000 (max. 8388607)
  254 compressed objects within 3 object streams
