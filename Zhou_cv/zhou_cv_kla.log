@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.30)  11 OCT 2018 15:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.30)  11 OCT 2018 15:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**zhou_cv.tex
-(./zhou_cv.tex
+**zhou_cv_kla.tex
+(./zhou_cv_kla.tex
 LaTeX2e <2016/03/31>
 Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
 (./moderncv.cls
@@ -968,8 +968,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 Package hyperref Info: Option `breaklinks' set `true' on input line 50.
 Package hyperref Info: Option `bookmarksopen' set `true' on input line 50.
 
-(./zhou_cv.aux)
-\openout1 = `zhou_cv.aux'.
+(./zhou_cv_kla.aux)
+\openout1 = `zhou_cv_kla.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
 LaTeX Font Info:    ... okay on input line 50.
@@ -1156,9 +1156,9 @@ LaTeX Info: Redefining \ref on input line 50.
 LaTeX Info: Redefining \pageref on input line 50.
 LaTeX Info: Redefining \nameref on input line 50.
 
-(./zhou_cv.out) (./zhou_cv.out)
+(./zhou_cv_kla.out) (./zhou_cv_kla.out)
 \@outlinefile=\write3
-\openout3 = `zhou_cv.out'.
+\openout3 = `zhou_cv_kla.out'.
 
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg
@@ -1254,10 +1254,10 @@ Package Fancyhdr Warning: \footskip is too small (30.0pt):
 [2]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 113.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 113.
- (./zhou_cv.aux)
+ (./zhou_cv_kla.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 113.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 113.
-Package rerunfilecheck Info: File `zhou_cv.out' has not changed.
+Package rerunfilecheck Info: File `zhou_cv_kla.out' has not changed.
 (rerunfilecheck)             Checksum: E7D5A444D54862F62959824ED51BB7B3;545.
 
 
@@ -1265,13 +1265,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 22892 strings out of 493014
- 371673 string characters out of 6133350
- 452994 words of memory out of 5000000
+ 22893 strings out of 493014
+ 371732 string characters out of 6133350
+ 453002 words of memory out of 5000000
  25916 multiletter control sequences out of 15000+600000
  87279 words of font info for 196 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 67i,13n,55p,10380b,1200s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 67i,13n,55p,10384b,1200s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
 texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/20
 16/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}</usr/local/texliv
@@ -1340,7 +1340,7 @@ al/texlive/2016/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive
 /2016/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2016/texm
 f-dist/fonts/type1/public/lm/lmsso10.pfb></usr/local/texlive/2016/texmf-dist/fo
 nts/type1/public/lm/lmsy10.pfb>
-Output written on zhou_cv.pdf (2 pages, 521282 bytes).
+Output written on zhou_cv_kla.pdf (2 pages, 521282 bytes).
 PDF statistics:
  397 PDF objects out of 1000 (max. 8388607)
  254 compressed objects within 3 object streams
